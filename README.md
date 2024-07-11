@@ -20,22 +20,24 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Artigo sobre a participação das mulheres no mercado de tecnologia ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+A partir de reflexões sobre a participação das mulheres no mercado de tecnologia, principalmente nos últimos anos, a ideia é que haja um artigo que reflita sobre as questões que envolvem essa participação, relacionadas com a inserção das mulheres em um mercado predomintemente masculino e quais seriam as possiblidades de mudança desse cenário para equidade de gênero.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
+Leonard AI
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Prompt do ChatGPT e Leonard AI com palavras chaves
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Texto e imagem estão disponíveis no medium
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Achei muito tranquilo e vi muitas possibilidades.
 ```
 
 ### Exemplos e Insigths
